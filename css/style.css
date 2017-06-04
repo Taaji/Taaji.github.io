@@ -1,0 +1,140 @@
+.navbar-custom {
+  background: yellow;
+  font-family: "Righteous", "Helvetica Neue", Helvetica, Arial, cursive;
+/*  text-transform: uppercase;*/
+  font-weight: 700;
+  font-size: 1em;
+  border: none;
+}
+
+.navbar-custom .navbar-brand {
+  color: black;
+}
+
+.navbar-custom .navbar-nav li a {
+  color: black;
+}
+
+.navbar-custom .navbar-nav li a:hover {
+  color: white;
+}
+
+header {
+  text-align: center;
+  background: url(img/congruent_outline.png);
+  color: yellow;
+}
+
+header .intro-text .name {
+  display: block;
+  color: yellow;    
+  font-family: "Barrio", "Helvetica Neue", Helvetica, Arial, cursive;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 4em;
+}
+
+header .intro-text .name {
+  display: block;
+  font-family: "Righteous", "Helvetica Neue", Helvetica, Arial, cursive;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 3em;
+}
+
+hr.star-light {
+  border-color: black;
+}
+
+hr.star-light:after {
+  background-color: black;
+  color: ;
+}
+
+header .intro-text .skills {
+  font-family: "Righteous", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-size: 2em;
+  font-weight: 300;
+}
+
+.navbar-custom .navbar-nav li.active a {
+  color: white;
+  background: grey;
+}
+
+.btn-success {
+  color: white;
+  background-color: yellow;
+  border-color: black;
+  font-weight: 700;
+}
+
+.floating-label-form-group-with-focus label {
+  color: yellow;
+}
+
+footer .footer-above {
+  padding-top: 50px;
+  background-color: dimgrey;
+}
+
+.btn-outline {
+  color: black;
+  font-size: 20px;
+  border: solid 2px yellow;
+  background: transparent;
+  transition: all 0.3s ease-in-out;
+  margin-top: 15px;
+}
+
+.btn-outline:hover {
+    color: white;
+    background: black;
+    border: 2px solid #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Righteous", "Helvetica Neue", Helvetica, Arial, cursive;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+header .container {
+  padding-top: 120px;
+  padding-bottom: 20px;
+}
+
+header img {
+  display: block;
+  margin: auto;
+}
+
+.portfolio-modal .modal-content {
+  border-radius: 0;
+  background-clip: border-box;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: none;
+  min-height: 100%;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.video-size {
+    height:400px;
+    width:100%;
+    overflow:hidden;
+}
+.video-size > video {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.lifontsize{
+   font-size: 1.3em; 
+}

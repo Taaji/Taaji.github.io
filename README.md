@@ -1,3 +1,3 @@
-##Hosted @reenaparanjape.me
+## Hosted @reenaparanjape.me
 
-#rparanjape@ufl.edu
+#### rparanjape@ufl.edu

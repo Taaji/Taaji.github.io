@@ -1,5 +1,5 @@
 .navbar-custom {
-  background: yellow;
+  background: #F33232;
   font-family: "Righteous", "Helvetica Neue", Helvetica, Arial, cursive;
 /*  text-transform: uppercase;*/
   font-weight: 700;
@@ -22,12 +22,12 @@
 header {
   text-align: center;
   background: url(img/congruent_outline.png);
-  color: yellow;
+  color: #F33232;
 }
 
 header .intro-text .name {
   display: block;
-  color: yellow;    
+  color: #F33232;    
   font-family: "Barrio", "Helvetica Neue", Helvetica, Arial, cursive;
   text-transform: uppercase;
   font-weight: 700;
@@ -64,13 +64,13 @@ header .intro-text .skills {
 
 .btn-success {
   color: white;
-  background-color: yellow;
+  background-color: #F33232;
   border-color: black;
   font-weight: 700;
 }
 
 .floating-label-form-group-with-focus label {
-  color: yellow;
+  color: #F33232;
 }
 
 footer .footer-above {
@@ -81,7 +81,7 @@ footer .footer-above {
 .btn-outline {
   color: black;
   font-size: 20px;
-  border: solid 2px yellow;
+  border: solid 2px #F33232;
   background: transparent;
   transition: all 0.3s ease-in-out;
   margin-top: 15px;

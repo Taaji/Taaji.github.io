@@ -168,4 +168,8 @@ header img {
 
 a {
   color:#F33232;
+
+}
+a:hover {
+  color: white
 }
